@@ -10,6 +10,6 @@
     <string name="p4_header_title">Listado de Publicaciones</string>
     <string name="p4_error_loading">Error al cargar las publicaciones</string>
     <string name="p4_item_user_id">User ID: %1$d</string>
-    <string name="p4_item_views">👀 %1$d vistas</string>
+    <string name="p4_item_views">%1$d vistas</string>
     <string name="p4_item_toast">Post ID: %1$d\nUsuario: %2$d\nVistas: %3$d</string>
 </resources>

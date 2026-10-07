@@ -64,7 +64,7 @@
             app:layout_constraintBottom_toBottomOf="@id/tvUserId"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toTopOf="@id/tvUserId"
-            tools:text="👀 305 vistas" />
+            tools:text="305 vistas" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 
