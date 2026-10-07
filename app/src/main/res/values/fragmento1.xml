@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="p1_hint_longitud">Longitud de la carga (m)</string>
+    <string name="p1_btn_calcular">Calcular Sobrecargo</string>
+    <string name="p1_msg_permitido">Carga dentro de las dimensiones permitidas.</string>
+
+
+    <color name="p1_bg_general">#F3F4F6</color>
+    <color name="p1_bg_header">#1E3A8A</color>
+    <color name="p1_text_header_sub">#93C5FD</color>
+    <color name="p1_text_primary">#111827</color>
+    <color name="p1_text_secondary">#4B5563</color>
+    <color name="p1_divider">#E5E7EB</color>
+
+
+    <color name="p1_bg_success">#E8F5E9</color>
+    <color name="p1_text_success">#2E7D32</color>
+    <color name="p1_bg_error">#FEE2E2</color>
+    <color name="p1_text_error">#991B1B</color>
+</resources>
