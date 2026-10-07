@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppGrupo8</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textpregunta1">Pregunta 1</string>
+    <string name="textpregunta2">Pregunta 2</string>
+    <string name="textpregunta3">Pregunta 3</string>
+    <string name="textpregunta4">Pregunta 4</string>
+</resources>
